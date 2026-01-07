@@ -1,6 +1,7 @@
 ﻿---
 title: "Introduction To Project Neo"
 date: 2026-01-07
+type: post
 ---
 
 # Introduction to Project Neo
